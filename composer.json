@@ -1,0 +1,5 @@
+{
+    "require": {
+        "itrack/anaf": "^3.0"
+    }
+}
